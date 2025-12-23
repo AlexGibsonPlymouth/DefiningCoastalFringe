@@ -1,0 +1,12 @@
+name: ShinyMapping
+title: ShinyMapping
+username: alexgibsonplymouth
+account: alexgibsonplymouth
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16206400
+bundleId: 11361012
+url: https://alexgibsonplymouth.shinyapps.io/ShinyMapping/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
